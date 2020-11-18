@@ -13,6 +13,8 @@
 		A0C66C5A2548A8B3002975FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0C66C582548A8B3002975FB /* Main.storyboard */; };
 		A0C66C5C2548A8B5002975FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0C66C5B2548A8B5002975FB /* Assets.xcassets */; };
 		A0C66C5F2548A8B5002975FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0C66C5D2548A8B5002975FB /* LaunchScreen.storyboard */; };
+		A0C66C672548ABD8002975FB /* Burger.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C66C662548ABD8002975FB /* Burger.swift */; };
+		A0C66C6D255356BF002975FB /* ka-ching sound effect.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A0C66C6C255356BF002975FB /* ka-ching sound effect.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		A0C66C5B2548A8B5002975FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A0C66C5E2548A8B5002975FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A0C66C602548A8B5002975FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0C66C662548ABD8002975FB /* Burger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Burger.swift; sourceTree = "<group>"; };
+		A0C66C6C255356BF002975FB /* ka-ching sound effect.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ka-ching sound effect.mp3"; path = "../../../../Desktop/ka-ching sound effect.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +64,9 @@
 				A0C66C542548A8B3002975FB /* SceneDelegate.swift */,
 				A0C66C562548A8B3002975FB /* ViewController.swift */,
 				A0C66C582548A8B3002975FB /* Main.storyboard */,
+				A0C66C662548ABD8002975FB /* Burger.swift */,
 				A0C66C5B2548A8B5002975FB /* Assets.xcassets */,
+				A0C66C6C255356BF002975FB /* ka-ching sound effect.mp3 */,
 				A0C66C5D2548A8B5002975FB /* LaunchScreen.storyboard */,
 				A0C66C602548A8B5002975FB /* Info.plist */,
 			);
@@ -128,6 +134,7 @@
 				A0C66C5F2548A8B5002975FB /* LaunchScreen.storyboard in Resources */,
 				A0C66C5C2548A8B5002975FB /* Assets.xcassets in Resources */,
 				A0C66C5A2548A8B3002975FB /* Main.storyboard in Resources */,
+				A0C66C6D255356BF002975FB /* ka-ching sound effect.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,6 +147,7 @@
 			files = (
 				A0C66C572548A8B3002975FB /* ViewController.swift in Sources */,
 				A0C66C532548A8B3002975FB /* AppDelegate.swift in Sources */,
+				A0C66C672548ABD8002975FB /* Burger.swift in Sources */,
 				A0C66C552548A8B3002975FB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
