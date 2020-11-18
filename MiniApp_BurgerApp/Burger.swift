@@ -19,6 +19,7 @@ class Burger
         case medium
         case mediumWell
         case well
+        //
     }
     enum Burgertype: String {
         case justHavetheSalad
