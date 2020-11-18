@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     var cals : Int = 0
     var price : Double = 0
     var fry : Bool = true
-    
+    //iuwehfvi;subfhv
     
     override func viewDidLoad() {
         super.viewDidLoad()
